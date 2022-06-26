@@ -1,3 +1,3 @@
 # Proyecto de Franco Rossi
-
-- Falta la app
+Buenas dejo aca el desafio MVT
+- Proyecto Terminado
